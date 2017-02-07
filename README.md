@@ -1,3 +1,3 @@
-# MeteorJS Boilerplate
+# First Meteor App
 
-Test to see what Meteor is all about
+Using ReactJS with Meteor to create view for Imgur Gallery API
